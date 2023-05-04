@@ -2,21 +2,19 @@ header, footer, section, nav, article {
     display: block;  
 }
 
-/* SET SOME properties for the BODY
-margin auto gets you a centred web page*/
-BODY {
+body {
 	margin: 0 auto;  
 	width: 940px; 
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 13px;
 }
 
-H1 {
+h1 {
 
 	color: red;
 }
 
-H2 {
+h2 {
 	text-align: center;
 	color: blue;
 }
@@ -33,7 +31,7 @@ HEADER#Banner {
 
 }
 
-FOOTER {
+footer {
 	width: 940px;
 	height: 40px;
 	margin: 5px auto;
@@ -42,7 +40,7 @@ FOOTER {
 	background-color: yellow;
 }
 
-NAV {
+nav {
 	width: 940px;
 	height: 50px;
 	float: left;
@@ -51,17 +49,17 @@ NAV {
 	background-color: #D0DBF0;
 }
 
-NAV ul {
+nav ul {
 	margin: 0px auto;
 	padding: 15px;
 	list-style-type: none;
 }
-NAV li {
+nav li {
 	display: inline;
 
 }
 
-NAV li a {
+nav li a {
 	float: left;
 	text-align: center;
 	border-right: 2px solid #00DBF0;
@@ -72,7 +70,7 @@ NAV li a {
 	text-decoration: none;
 }
 
-NAV li a:hover {
+nav li a:hover {
 	color: #00DBF0;
 }
 
@@ -95,7 +93,7 @@ HEADER#Header_Article_1 {
 	background-color: #DCDCDC;
 }
 
-SECTION#Section_Article_1 {
+section#section_article_1 {
 	width: 850px;
 	height: 400px;
 	margin-top: 20px; 
