@@ -46,7 +46,7 @@ nav {
 	float: left;
 	font-family: Geneva,Arial;
 	border: 1px solid #000000;
-	background-color: #D0DBF0;
+	background-color: white;
 }
 
 nav ul {
@@ -84,13 +84,13 @@ section#wrapper {
 article#article_1 {
 	width: 900px;
 	height: 500px;
-	background-color: #ADAAAA;
+	background-color: white;
 }
 
 header#header_article_1 {
 	width: 900px;
 	height: 60px;
-	background-color: #DCDCDC;
+	background-color: white;
 }
 
 section#section_article_1 {
@@ -100,6 +100,6 @@ section#section_article_1 {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom: 20px;
-	background-color: #F8EBEB;
+	background-color: white;
 }
 
