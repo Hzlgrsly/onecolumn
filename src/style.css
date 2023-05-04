@@ -21,7 +21,7 @@ h2 {
 
 
 
-HEADER#Banner {
+header#banner {
 	width: 940px;
 	height: 100px;
 	margin: 5px auto;
@@ -74,20 +74,20 @@ nav li a:hover {
 	color: #00DBF0;
 }
 
-SECTION#Wrapper {
+section#wrapper {
 	margin-top: 100px; 
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-bottom: 50px;
 }
 
-ARTICLE#Article_1 {
+article#article_1 {
 	width: 900px;
 	height: 500px;
 	background-color: #ADAAAA;
 }
 
-HEADER#Header_Article_1 {
+header#header_article_1 {
 	width: 900px;
 	height: 60px;
 	background-color: #DCDCDC;
