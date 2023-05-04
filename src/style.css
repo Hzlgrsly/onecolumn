@@ -66,12 +66,12 @@ nav li a {
         width: 100px;  
         font-size: 14px; 
 	padding: 0px 10px;
-	color: #0000FF;
+	color: black;
 	text-decoration: none;
 }
 
 nav li a:hover {
-	color: #00DBF0;
+	color: black;
 }
 
 section#wrapper {
