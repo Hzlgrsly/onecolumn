@@ -36,6 +36,10 @@ h2 {
 	color: black;
 }
 
+h3 {
+	font-size: 15px;
+	text-decoration: bold;
+
 footer {
 	width: 940px;
 	height: 40px;
