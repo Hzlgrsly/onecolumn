@@ -38,8 +38,7 @@ h2 {
 footer {
 	width: 940px;
 	height: 40px;
-	margin: 5px auto;
-	
+	margin-bottom: 20px;
 	text-align: center;
 	background-color: white;
 }
