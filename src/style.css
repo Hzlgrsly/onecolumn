@@ -23,7 +23,7 @@ body {
   width: 300px;
   height: 400px;
   display: block;
-  text-align: center;
+  text-center;
 }
 
 h1 {
