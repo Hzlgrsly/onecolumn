@@ -203,7 +203,7 @@ button[type="submit"]:hover {
 }
 
 .icon-container {
-  display: flex;
+  
   justify-content: center;
   padding: 10px;
   margin-right: 10px;
