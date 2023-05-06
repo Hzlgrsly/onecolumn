@@ -208,3 +208,7 @@ button[type="submit"]:hover {
   padding: 10px;
   margin-right: 10px;
 }
+
+.text {
+        padding-left: 20px;
+      }
