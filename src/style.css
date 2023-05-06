@@ -211,4 +211,5 @@ button[type="submit"]:hover {
 
 .text {
         padding-left: 20px;
+	text-align: left;
       }
