@@ -161,7 +161,7 @@ button[type="submit"] {
   border-radius: 5px;
   cursor: pointer;
   margin-top: 10px;
-
+  font-family: 'Inconsolata', monospace;
 }
 
 button[type="submit"]:hover {
@@ -183,7 +183,7 @@ button[type="submit"]:hover {
   padding: 10px;
   border: 1px solid grey;
   border-radius: 5px;
-  font-size: 10px;
+  font-size: 15px;
   font-family: 'Inconsolata', monospace;
 }
 #message {
