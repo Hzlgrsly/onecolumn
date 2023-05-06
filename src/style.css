@@ -82,34 +82,7 @@ ul li a:hover {
   font-size: 40px;
 }
 
-section#wrapper {
-	margin-top: 100px; 
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-bottom: 50px;
-}
 
-article#article_1 {
-	width: 900px;
-	height: 500px;
-	background-color: white;
-}
-
-header#header_article_1 {
-	width: 900px;
-	height: 60px;
-	background-color: white;
-}
-
-section#section_article_1 {
-	width: 850px;
-	height: 400px;
-	margin-top: 20px; 
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	background-color: white;
-}
 
 /* Style inputs with type="text", select elements and textareas */
 input[type="text"],
@@ -211,6 +184,7 @@ button[type="submit"]:hover {
   border: 1px solid grey;
   border-radius: 5px;
   font-size: 16px;
+	font-family: 'Inconsolata', monospace;
 }
 #message {
   height: 100px;
