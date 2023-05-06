@@ -33,54 +33,6 @@
 <section id="section_article_1">
 
 	
-	<div class="icon-container">
-      <a
-        href="https://www.linkedin.com/in/hazel-greasley-8ba652258/"
-        target="_blank"
-        ><img src="linkedinicon.jpg" style="width: 50px; height: 50px;"
-      /></a>
-      <a href="https://www.facebook.com/hazelgreasley" target="_blank"
-        ><img src="facebookicon.jpg" style="width: 50px; height: 50px;"
-      /></a>
-      <a href="https://www.instagram.com/hzlgrsly/" target="_blank"
-        ><img src="instagramicon.jpg" style="width: 50px; height: 50px;"
-      /></a>
-      <a href="https://www.pinterest.com.au/hzlgrsly/" target="_blank"
-        ><img src="pinterest.jpg" style="width: 50px; height: 50px;"
-      /></a>
-    </div>
-    <br />
-    <!-- HTML code for contact form -->
-    <form id="contact-form">
-      <input type="text" id="name" name="name" placeholder="Name" required />
-      <input
-        type="email"
-        id="email"
-        name="email"
-        placeholder="Email"
-        required
-      />
-      <textarea
-        id="message"
-        name="message"
-        placeholder="Message"
-        required
-      ></textarea>
-      <button type="submit">Submit</button>
-    </form>
-
-    <!-- JavaScript code to display message on form submission -->
-    <script>
-      const form = document.getElementById("contact-form");
-      form.addEventListener("submit", (e) => {
-        e.preventDefault();
-        // send form data here (using fetch or ajax)
-        // Success message displayed below
-        const successMsg = document.createElement("p");
-        successMsg.innerText = "Message sent successfully!";
-        form.appendChild(successMsg);
-      });
-    </script>
 	
 </section>
 </article>
