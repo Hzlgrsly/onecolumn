@@ -36,11 +36,15 @@ h2 {
 	color: black;
 }
 
+h5 {
+  text-align: left;
+}
+
+
 h6 {
 	font-size: 15px;
 	font-weight: bold;
 }
-	
 
 footer {
 	width: 940px;
@@ -118,12 +122,6 @@ input[type="submit"]:hover {
   border-radius: 5px;
   background-color: white;
   padding: 50px;
-  font-size: 15px;
-}
-h5 {
-  text-align: left;
-}
-h6 {
   font-size: 15px;
 }
 
